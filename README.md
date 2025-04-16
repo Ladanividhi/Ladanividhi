@@ -18,8 +18,8 @@
 
 ## 🧠 Programming Platforms
 
-[![Codechef](https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yourusername)
-[![LeetCode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=Leetcode&logoColor=black)](https://leetcode.com/yourusername/)
+[![Codechef](https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vidhiladani)
+[![LeetCode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=Leetcode&logoColor=black)](https://leetcode.com/u/LadaniVidhi/)
 
 ---
 
