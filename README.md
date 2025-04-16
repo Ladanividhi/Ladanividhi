@@ -1,22 +1,18 @@
-
-<h1 align="center">Hi! 👋 I'm Vidhi Ladani</h1>
-<h3 align="center">Computer Engineering Student at Dharmsinh Desai University</h3>
-
 <img src="https://github.com/Ladanividhi/Ladanividhi/blob/main/banner.png" alt="Banner" width="100%"/>
 
 ---
 
 - 🌱 I’m currently learning **App Development and DSA**
 - 💬 Ask me about **C++, Python, Frontend, DSA**
-- 📫 How to reach me: [Instagram](https://instagram.com/vidhiladani1635) | [LinkedIn](https://linkedin.com/in/vidhi-ladani-13822a291)
+- 📫 How to reach me: [Instagram](https://instagram.com/vidhiladani1635) | [LinkedIn](https://linkedin.com/in/vidhi-ladani-13822a291) | [Email](mailto:ladanividhi1635@gmail.com)
 
 ---
 
 ## 🔗 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhi-ladani-13822a291)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vidhiladani1635)
 
 ---
 
