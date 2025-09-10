@@ -3,7 +3,6 @@
 ---
 
 - 🌱 I’m currently learning **App Development and DSA**
-- 💬 Ask me about **C++, Python, Frontend, DSA**
 - 📫 How to reach me: [Instagram](https://instagram.com/vidhiladani1635) | [LinkedIn](https://linkedin.com/in/vidhi-ladani-13822a291) | [Email](mailto:ladanividhi1635@gmail.com)
 
 ---
